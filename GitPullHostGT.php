@@ -1,5 +1,5 @@
 <code class="language-markup">
-&lt;?php
+<?php
 `git pull`;
 ?>
- 	</code>
+</code>
